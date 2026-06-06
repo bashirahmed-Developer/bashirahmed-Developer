@@ -20,28 +20,18 @@ I'm **Bashir Ahmed**, a passionate front-end developer who enjoys creating clean
 
 ## 🛠️ Technologies & Tools
 
-### Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Bootstrap
-* Animate.css
-
-### Version Control & Tools
-
-* Git
-* GitHub
-* VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
+</p>
 
 ---
 
 ## 📚 Current Learning Goals
 
-* Advanced JavaScript Concepts
+* Advanced JavaScript
 * Responsive Web Design
 * Web Performance Optimization
-* Modern Frontend Frameworks
+* Modern Frontend Development
 
 ---
 
@@ -51,7 +41,7 @@ I'm **Bashir Ahmed**, a passionate front-end developer who enjoys creating clean
 ✅ Create modern UI designs
 ✅ Develop interactive web pages
 ✅ Implement animations and effects
-✅ Maintain projects using Git & GitHub
+✅ Manage projects using Git & GitHub
 
 ---
 
