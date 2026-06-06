@@ -59,8 +59,8 @@ I'm **Bashir Ahmed**, a passionate front-end developer who enjoys creating clean
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/bashirahmed-Developer
+* Email: [username@example.com](mailto:your-email@example.com)
 
 ---
 
