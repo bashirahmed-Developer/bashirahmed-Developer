@@ -10,7 +10,7 @@
     <a href="https://github.com/bashirahmed-Developer">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/bashir-ahmed-undefined-b1b0b83a3/)">
+    <a href="<a href="https://www.linkedin.com/in/bashir-ahmed-undefined-b1b0b83a3/">">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:bashirahmed.kd@gmail.com">
